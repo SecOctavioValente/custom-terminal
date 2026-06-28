@@ -1,4 +1,4 @@
-# Custom Tactical Terminal
+# Custom Terminal
 Protocolo de entorno monocromático de alta alerta diseñado para optimizar la carga cognitiva en análisis de infraestructura y ciberseguridad.
 
 ## Componentes
