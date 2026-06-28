@@ -1,0 +1,23 @@
+{
+            "background": "#000000",
+            "black": "#0C0C0C",
+            "blue": "#CCCCCC",
+            "brightBlack": "#767676",
+            "brightBlue": "#E6E6E6",
+            "brightCyan": "#E6E6E6",
+            "brightGreen": "#E6E6E6",
+            "brightPurple": "#BFBFBF",
+            "brightRed": "#E60004",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#E6E6E6",
+            "cursorColor": "#D90000",
+            "cyan": "#CCCCCC",
+            "foreground": "#FFFFFF",
+            "green": "#CCCCCC",
+            "name": "Red Terminal",
+            "purple": "#A6A6A6",
+            "red": "#BF0003",
+            "selectionBackground": "#B3B3B3",
+            "white": "#D9D9D9",
+            "yellow": "#CCCCCC"
+        }
